@@ -1,0 +1,6 @@
+outs:
+- md5: 540ab45aaa715cfddb62e40e75314408.dir
+  size: 21414765
+  nfiles: 3
+  hash: md5
+  path: training_checkpoints
